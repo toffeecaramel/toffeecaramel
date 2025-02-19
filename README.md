@@ -1,4 +1,6 @@
-Meow :3
+## Welcome to my Profile!
+
+( Hope u get cozy around here!~ )
 
 <!---
 toffeecaramel/toffeecaramel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
